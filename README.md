@@ -2,7 +2,7 @@
 Make ATM (Any Time Money) Machine 
 * pin: 1234
 
-## How To Install 
+## How To Install LINUX / UBUNTU
 * $ git clone https://github.com/manish20002/ATM.git
 * $ cd ATM
 * $ ls
