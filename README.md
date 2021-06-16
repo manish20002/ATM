@@ -1,6 +1,6 @@
 ## ATM
 Make ATM (Any Time Money) Machine 
-pin: 1234
+* pin: 1234
 
 ## How To Install 
 * $ git clone https://github.com/manish20002/ATM.git
